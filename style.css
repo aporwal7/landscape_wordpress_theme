@@ -1,0 +1,31 @@
+/*
+Theme Name: landscape
+Theme URI: 
+Author: the WordPress team
+Author URI: 
+Description: 
+Requires at least:
+Version: 1.1
+License: GNU General Public License v2 or later
+License URI: landscape
+Text Domain: landscape
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+*/
+
+p#user_login_field label {
+    float: left;
+    margin-right: 20%;
+}
+
+p#user_pass_field label {
+    float: left;
+    margin-right: 20%;
+}
+p#user_email_field label {
+    float: left;
+    margin-right: 20%;
+}
+p#user_confirm_password_field label {
+    float: left;
+    margin-right: 20%;
+}
